@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/clone/page": "app/clone/page.js",
+  "/tkbm/page": "app/tkbm/page.js",
+  "/tkqc/page": "app/tkqc/page.js",
+  "/page/page": "app/page/page.js"
+}
